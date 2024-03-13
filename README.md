@@ -1,6 +1,6 @@
-Hi, I'm Pierre and currently working as an HPC Admin at @mpi-eva.
-Pronouns: he/him
-Interests: GNU/Linux, Photography, Video Games and more. 
+- Hi, I'm Pierre and currently working as an HPC Admin at [MPI EVA](https://github.com/mpi-eva)
+- Pronouns: he/him
+- Interests: GNU/Linux, Photography, Video Games and more. 
 
 
 <!---
